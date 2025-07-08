@@ -1,5 +1,5 @@
 ## Overview
-This repository is for storing codes for the course UC Berkeley CS 61A, including homeworks(hw), labs, projects, mainly based on the semesters Spring 2024 and Spring 2025.
+This repository is for storing codes for the course UC Berkeley CS 61A, including homeworks(hw), labs, projects, dicussions(disc), etc., mainly based on the semesters Spring 2024 and Spring 2025.
 
 ## Projects
 1. Hog
