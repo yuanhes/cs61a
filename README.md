@@ -1,11 +1,11 @@
 ## Overview
-This repository is for storing codes for the course UC Berkeley CS 61A, including homeworks(hw), labs, projects, mainly based on the Semester Spring 2024 and Spring 2025.
+This repository is for storing codes for the course UC Berkeley CS 61A, including homeworks(hw), labs, projects, mainly based on the semesters Spring 2024 and Spring 2025.
 
 ## Projects
 1. Hog
 2. Cats
 3. Ants
-4. Scheme (Intepreter)
+4. Scheme (Interpreter)
 
 ## Main Resources
 - Official Course Site: https://cs61a.org/
