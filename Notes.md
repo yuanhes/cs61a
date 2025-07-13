@@ -14,3 +14,6 @@
         ```
         where the `deco_func` is usually a high-order function that returns function.
     -
+* 2025/07/12
+   - cs61a Project 4: scheme interpreter
+    - `*args` notation: `f(1, 2, 3)` is equivalent to `f(*[1, 2, 3])`. In other words, putting a star in front of a list turns its elements into a series of individual arguments.
